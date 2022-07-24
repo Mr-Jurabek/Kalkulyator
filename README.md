@@ -1,1 +1,1 @@
-# loyiha1
+# Dastlabki loyihalarimdan biri. Kalkulyator. 
